@@ -1,0 +1,24 @@
+{
+  "name": "whois",
+  "version": "0.0.0",
+  "description": "Scrapes whois data.",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ishmaelthedestroyer/whois"
+  },
+  "author": "ishmaelthedestroyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishmaelthedestroyer/whois/issues"
+  },
+  "homepage": "https://github.com/ishmaelthedestroyer/whois",
+  "dependencies": {
+    "line-reader": "^0.2.4",
+    "q": "^1.0.1",
+    "superagent": "^0.20.0"
+  }
+}
